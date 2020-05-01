@@ -397,6 +397,9 @@
     }
 }
 @media only screen and (max-width : 600px) {
+    .produc-desing .product-img img{
+        height: 250px;
+    }
     .product-img img{
         height: 150px;
     }
