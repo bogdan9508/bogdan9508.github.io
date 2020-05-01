@@ -13,6 +13,9 @@
     }
 }
 @media only screen and (max-width : 1440px) {
+    .header-top{
+        padding: 25px 20px 0 20px;
+    }
     .produc-web:before{
         right: -55%;
     }
