@@ -156,6 +156,9 @@
     }
 }
 @media only screen and (max-width : 992px) {
+    .keyboard{
+        display: none;
+    }
     .produc.produc-web {
         margin-bottom: 50px;
     }
