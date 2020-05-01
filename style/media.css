@@ -153,6 +153,18 @@
     }
 }
 @media only screen and (max-width : 992px) {
+    .produc.produc-web {
+        margin-bottom: 50px;
+    }
+    .produc.produc-3d {
+        margin-bottom: 50px;
+    }
+    .produc.produc-print {
+        margin-bottom: 50px;
+    }
+    .produc.produc-mat {
+        margin-bottom: 50px;
+    }
     .header-top{
         justify-content: center;
     }
